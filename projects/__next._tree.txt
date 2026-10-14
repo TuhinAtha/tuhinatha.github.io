@@ -1,6 +1,6 @@
-:HL["/_next/static/chunks/0anal9r63u46_.css","style"]
+:HL["/_next/static/chunks/08cd4cjzgip5o.css","style"]
 :HL["/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"projects","h":64,"c":"$Q2"}]]
-0:{"b":"XSb6NAa0GuYP2ctm4x2zu","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
+0:{"b":"1_0KE0NKs2mv3Sj4V4iyD","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
